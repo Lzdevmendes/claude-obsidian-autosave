@@ -25,7 +25,7 @@ O grafo do Obsidian ganha uma cor por tópico e destaque para as sessões de hoj
 Requer Python 3.8+ e Claude Code.
 
 ```
-git clone https://github.com/<voce>/claude-obsidian-autosave
+git clone https://github.com/Lzdevmendes/claude-obsidian-autosave
 cd claude-obsidian-autosave/skills/obsidian-autosave
 python scripts/install.py --vault "C:/Users/voce/Documents/MeuCofre" --backfill
 ```
